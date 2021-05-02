@@ -1,0 +1,23 @@
+/* 🚩 Dada Ki Jay Ho 🚩 */
+
+body {
+    background: linear-gradient(to top right, #ff8c00, #ff8c00, #ff0077);
+    height: 100vh;
+}
+
+.modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    width: 68%;
+    text-align: center;
+    padding: 68px 12px;
+    border-radius: 36px;
+    box-shadow: 18px 18px 55px 12px #be1dfd;
+}
+
+p {
+    font-size: 28px;
+}
